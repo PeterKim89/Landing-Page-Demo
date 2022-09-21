@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(76, 52, 153);
+    top: 100px;
+}
+
+header {
+    position: fixed;
+    top: 10 px;
+    left: 90%;
+    color:rgb(23, 16, 225)
+}
+
+footer {
+    position: absolute;
+    margin-top: 0;
+    bottom: 0;
+    color: rgb(23, 16, 225);
+}
+
+figure {
+    position: relative;
+    margin-bottom: 50px;
+    left: 40%;
+    margin: 10px red;
+}
+
+img {
+    display: block;
+    margin: 20px;
+}
+
+form {
+    margin: 0;
+    width: 200px;
+    padding: 15px;
+}
+
+section {
+    margin-bottom: 0;
+    padding: 10px 10px 10px 10px;
+    background-color:rgb(233, 229, 124);
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
